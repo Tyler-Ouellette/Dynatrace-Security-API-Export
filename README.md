@@ -4,6 +4,10 @@
 ### Prerequisites
 
 - Node.js Version 7.6+, just install the latest if you can.
+- Dynatrace API Token with the following permissions:
+```
+entities.read, securityProblems.read
+```
 
 ## How to get this working?
 
